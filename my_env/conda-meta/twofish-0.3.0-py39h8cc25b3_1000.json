@@ -1,0 +1,129 @@
+{
+  "build": "py39h8cc25b3_1000",
+  "build_number": 1000,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.9,<3.10.0a0",
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\91823\\miniconda3\\pkgs\\twofish-0.3.0-py39h8cc25b3_1000",
+  "features": "",
+  "files": [
+    "Lib/site-packages/__pycache__/twofish.cpython-39.pyc",
+    "Lib/site-packages/_twofish.cp39-win_amd64.pyd",
+    "Lib/site-packages/twofish-0.3.0.dist-info/INSTALLER",
+    "Lib/site-packages/twofish-0.3.0.dist-info/LICENSE",
+    "Lib/site-packages/twofish-0.3.0.dist-info/METADATA",
+    "Lib/site-packages/twofish-0.3.0.dist-info/RECORD",
+    "Lib/site-packages/twofish-0.3.0.dist-info/REQUESTED",
+    "Lib/site-packages/twofish-0.3.0.dist-info/WHEEL",
+    "Lib/site-packages/twofish-0.3.0.dist-info/direct_url.json",
+    "Lib/site-packages/twofish-0.3.0.dist-info/top_level.txt",
+    "Lib/site-packages/twofish.py",
+    ".nonadmin"
+  ],
+  "fn": "twofish-0.3.0-py39h8cc25b3_1000.conda",
+  "legacy_bz2_md5": "3bea9244a302b843ac4327440d12bff1",
+  "legacy_bz2_size": 20914,
+  "license": "BSD",
+  "license_family": "BSD",
+  "link": {
+    "source": "C:\\Users\\91823\\miniconda3\\pkgs\\twofish-0.3.0-py39h8cc25b3_1000",
+    "type": 1
+  },
+  "md5": "ad998422ab4ea9d401c0d88def824982",
+  "name": "twofish",
+  "package_tarball_full_path": "C:\\Users\\91823\\miniconda3\\pkgs\\twofish-0.3.0-py39h8cc25b3_1000.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/__pycache__/twofish.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "2a120c3370ce8424e94442acc5ac0833c74914ce80e96c549e47430d62b9bd61",
+        "sha256_in_prefix": "2a120c3370ce8424e94442acc5ac0833c74914ce80e96c549e47430d62b9bd61",
+        "size_in_bytes": 3101
+      },
+      {
+        "_path": "Lib/site-packages/_twofish.cp39-win_amd64.pyd",
+        "path_type": "hardlink",
+        "sha256": "52b323740aebdd522f03cb7f6fd4d89e490ab2be3689ea8b8e7454738c436d25",
+        "sha256_in_prefix": "52b323740aebdd522f03cb7f6fd4d89e490ab2be3689ea8b8e7454738c436d25",
+        "size_in_bytes": 22016
+      },
+      {
+        "_path": "Lib/site-packages/twofish-0.3.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "Lib/site-packages/twofish-0.3.0.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "28e6d2e8db755fa4d5a2e6077e53f4403a5d94c443470b922b4920a7f0d0ff54",
+        "sha256_in_prefix": "28e6d2e8db755fa4d5a2e6077e53f4403a5d94c443470b922b4920a7f0d0ff54",
+        "size_in_bytes": 1472
+      },
+      {
+        "_path": "Lib/site-packages/twofish-0.3.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "35b53393651e92e96450e50c22aff01b9d9b254aa884aea6b77ad8b9c55f6e9c",
+        "sha256_in_prefix": "35b53393651e92e96450e50c22aff01b9d9b254aa884aea6b77ad8b9c55f6e9c",
+        "size_in_bytes": 1550
+      },
+      {
+        "_path": "Lib/site-packages/twofish-0.3.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "6456d5fe85df37d3ff629b5b9832e68f3e17d2fedd749905efc4297db41d3fda",
+        "sha256_in_prefix": "6456d5fe85df37d3ff629b5b9832e68f3e17d2fedd749905efc4297db41d3fda",
+        "size_in_bytes": 855
+      },
+      {
+        "_path": "Lib/site-packages/twofish-0.3.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/twofish-0.3.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "8ebeee6d8d0b933ff25c7f457c57bd3d3b4b8463ac7fad9d66436f4d8ac920d1",
+        "sha256_in_prefix": "8ebeee6d8d0b933ff25c7f457c57bd3d3b4b8463ac7fad9d66436f4d8ac920d1",
+        "size_in_bytes": 100
+      },
+      {
+        "_path": "Lib/site-packages/twofish-0.3.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "0af230f814864734361f00c16ea3836629237afa30e36534c33235f62824cda1",
+        "sha256_in_prefix": "0af230f814864734361f00c16ea3836629237afa30e36534c33235f62824cda1",
+        "size_in_bytes": 67
+      },
+      {
+        "_path": "Lib/site-packages/twofish-0.3.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "57c76b94d7fb4282d08845d3ae359eb2f44742e29237819c77416995f47889cc",
+        "sha256_in_prefix": "57c76b94d7fb4282d08845d3ae359eb2f44742e29237819c77416995f47889cc",
+        "size_in_bytes": 17
+      },
+      {
+        "_path": "Lib/site-packages/twofish.py",
+        "path_type": "hardlink",
+        "sha256": "91ea30c606a99d032a6d2a75989dff2cc033a7a934c26d73b24e92491f76beea",
+        "sha256_in_prefix": "91ea30c606a99d032a6d2a75989dff2cc033a7a934c26d73b24e92491f76beea",
+        "size_in_bytes": 3713
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "bcc76af0b9d7f29e138d4d0b29962e1ec9548534f0efb6a950b364dee0729165",
+  "size": 19808,
+  "subdir": "win-64",
+  "timestamp": 1613503621865,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/twofish-0.3.0-py39h8cc25b3_1000.conda",
+  "version": "0.3.0"
+}
