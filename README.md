@@ -65,14 +65,6 @@ The following files are stored.
 * Label data(keypoint_classifier_label.csv)
 * Inference module(keypoint_classifier.py)
 
-### model/point_history_classifier
-This directory stores files related to finger gesture recognition.<br>
-The following files are stored.
-* Training data(point_history.csv)
-* Trained model(point_history_classifier.tflite)
-* Label data(point_history_classifier_label.csv)
-* Inference module(point_history_classifier.py)
-
 ### utils/cvfpscalc.py
 This is a module for FPS measurement.
 
